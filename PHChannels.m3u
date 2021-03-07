@@ -109,41 +109,13 @@ https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8|User-Agen
 https://abc.hi2u.xyz/euronews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/02dPTxJ.jpg" group-title="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cBx4gKT.png" group-title="",France 24
-#https://abc.hi2u.xyz/france24.m3u8
-http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rNpNkTf.png" group-title="",CNBC
-https://abc.hi2u.xyz/cnbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3dmTMEP.png" group-title="",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SBbCNuv.png" group-title="",History
-https://usee.hi2u.xyz/history.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/D8gjvej.png" group-title="",Discovery
-https://usee.hi2u.xyz/discovery.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UPKpNWg.jpg" group-title="",Animal Planet
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/oEw3XPQ.png" group-title="",Outdoor Channel
-https://usee.hi2u.xyz/outdoor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/MMYRam8.png" group-title="",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zzD5Atw.png" group-title="",Crime & Investigation
-https://usee.hi2u.xyz/crime.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EPYSCWS.png" group-title="",National Geographic
-https://usee.hi2u.xyz/natgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XBFEMBU.png" group-title="",Nat Geo Wild
-https://usee.hi2u.xyz/natgeowild.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/INY0ijJ.jpg" group-title="",Nat Geo People
-https://usee.hi2u.xyz/natgeopeople.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0ZEDqfl.jpg" group-title="",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TsyUBae.png" group-title="",Da Vinci
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/dSlvEqD.png" group-title="",Food Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(QtEmbedded%3B%20U%3B%20Linux%3B%20C)%20AppleWebKit%2F533.3%20(KHTML%2C%20like%20Gecko)%20MAG200%20stbapp%20ver%3A%202%20rev%3A%20250%20Safari%2F533.3&X-User-Agent=Model%3A%20MAG250%3B%20Link%3A%20WiFi
 https://abc.hi2u.xyz/food.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/r8LiwFt.png" group-title="",Asian Food Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
