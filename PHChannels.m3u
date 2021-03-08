@@ -96,7 +96,5 @@ https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KqDeFU0.png" group-title="",Epix2 (US)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA TV
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8765?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA TV HD
 http://bazarhd.online:80/307210113622/307210113622/80959?checkedby:iptvcat.com
