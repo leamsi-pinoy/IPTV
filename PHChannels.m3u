@@ -15,8 +15,6 @@ http://37.48.104.71:8080/live/testing/playlist.m3u8
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="",UNTV
 https://www.untvweb.com/live-stream/untvweb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/GKwGxNr.png" group-title="",CLTV36
-https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/&cookie=PHPSESSID%3D94f8229473824a7b9a0329ccdb061387
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/513pYld.png" group-title="",Teleradyo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #http://stream.streamhubtv.xyz:8080/Iptv/xQDusVsVwA/703242
@@ -50,7 +48,6 @@ https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8|User-Agen
 https://abc.hi2u.xyz/euronews.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/02dPTxJ.jpg" group-title="",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3dmTMEP.png" group-title="",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UPKpNWg.jpg" group-title="",Animal Planet
@@ -110,46 +107,6 @@ https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KqDeFU0.png" group-title="",Epix2 (US)
 https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/p6Ip331.png" group-title="",NBA Channels active during live games
-https://usekodi.hi2u.xyz/hi2ulive2021.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 01 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 02 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 03 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 04 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 05 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 06 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 07 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 08 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 09 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 10 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 11 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 12 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 13 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 14 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 15 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 16 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA 17 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8716?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA TV
 http://51.89.217.174:8080/w5qtonxB6v/hQDhWwqpnX/8765?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="",NBA TV HD
